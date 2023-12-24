@@ -1,18 +1,22 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F536&width=435&lines=Hey++there%F0%9F%91%8B%2C+I+am+Ravishankar+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Let's+explore+the+world+of+SOftware Engineering!%F0%9F%9A%80" alt="Typing SVG" /></a></h1>
+![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c629edb3-daaa-4661-9613-5bd3415a3b85)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravisksingh1999&label=Profile%20views&color=0e75b6&style=flat" alt="ravisksingh1999" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravisksingh1999&label=Profile%20views&color=282929&style=plastic" alt="ravisksingh1999" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravisksingh1999" alt="ravisksingh1999" /></a> </p>
+# About me</li><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<li>Hii there, I'm Ravishankar, Ambitious 3rd-year undergrad, coding enthusiast seeking exciting opportunities.
 
-- 🌱 I’m currently learning **DSA and Backend**
+# Current Endevours🔭
+Here's what I'm currently focused on:
+<li>I'm learning HTML,CSS and Javascript from a Web development Bootcamp.</li>
+<li>I'm exploring new Technology to enhance my skill set.</li>
+<li>I'm a night owl, always driven and constantly learning in the tech world.</li>
 
-- 💬 Ask me about **Frontend**
+# My Interests✨
+<li>Frontend Web Development</li>
+<li>Pitching new Ideas of Innovation.</li>
+<li>Like to gain real-time experience by attending Workshops, Hackathons and other Technical events.</li>
 
-- 📫 How to reach me **ravishankarks199@gmail.com**
-
-- ⚡ Fun fact **I think I am funny.**
-
-<h3 align="left">Connect with me:</h3>
+# Connect with me💬
 <p align="left">
 <a href="https://linkedin.com/in/ravisksingh1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravisksingh1999" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ravisk_1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ravisk_1999" height="30" width="40" /></a>
@@ -20,11 +24,44 @@
 <a href="https://auth.geeksforgeeks.org/user/ravishankarks199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ravishankarks199" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravisksingh1999&show_icons=true&locale=en&layout=compact" alt="ravisksingh1999" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravisksingh1999&show_icons=true&locale=en" alt="ravisksingh1999" /></p>
+# Languages and Tools📝
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravisksingh1999&" alt="ravisksingh1999" /></p>
+| **Category** | **Skill**    |       
+| :---:   | :---: |
+| Framework | [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)     | 
+| Languages | [![My Skills](https://skillicons.dev/icons?i=js,html,cpp,c,python,solidity,java)](https://skillicons.dev)     | 
+| Styling and Framework | [![My Skills](https://skillicons.dev/icons?i=css,bootstrap)](https://skillicons.dev)     | 
+| Database | [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)     | 
+| Services & Tools | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)     |
+| IDE & Environment | [![My Skills](https://skillicons.dev/icons?i=vscode,replit)](https://skillicons.dev)     |
+| Hosting | [![My Skills](https://skillicons.dev/icons?i=vercel,heroku)](https://skillicons.dev)     |
+| Design Tools | [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,figma)](https://skillicons.dev)     |
+
+
+ # 📫 Contact
+
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/ravisksingh1999/). 
+ 
+ For professional inquiries, reach out via email at [ravishankarks199@gmail.com](mailto:ravishankarks199@gmail.com). 
+
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravisksingh1999&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="ravisksingh1999" />
+
+# My Github Activity -
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravisksingh1999&theme=dark&hide_border=false" alt="ravisksingh1999" />
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravisksingh1999&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="ravisksingh1999" /></p>
+
+<p align="left"><img
+                src="https://github-readme-stats.vercel.app/api?username=ravisksingh1999&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
+                alt="ravisksingh1999" height="170" /></p>
+                
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
