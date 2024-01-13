@@ -1,4 +1,4 @@
-![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c629edb3-daaa-4661-9613-5bd3415a3b85)
+![Banner GitHub](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravisksingh1999&label=Profile%20views&color=282929&style=plastic" alt="ravisksingh1999" /> </p>
 
