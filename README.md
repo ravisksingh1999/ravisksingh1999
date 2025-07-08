@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ravishankar Kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 ![Banner GitHub](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravisksingh1999&label=Profile%20views&color=282929&style=plastic" alt="ravisksingh1999" /> </p>
 
 # About me</li><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<li>Hii there, I'm Ravishankar, Ambitious 3rd-year undergrad, coding enthusiast seeking exciting opportunities.
+<li>Hii there, I'm Ravishankar, 2025 CSE graduate, coding enthusiast seeking exciting opportunities.
 
 # Current Endevours🔭
 Here's what I'm currently focused on:
-<li>I'm learning HTML,CSS and Javascript from a Web development Bootcamp.</li>
+<li>I have exposure on HTML,CSS and Javascript and React Js.</li>
 <li>I'm exploring new Technology to enhance my skill set.</li>
 <li>I'm a night owl, always driven and constantly learning in the tech world.</li>
 
